@@ -1,4 +1,4 @@
-# Personal-Finance-Tracker
+ # Personal-Finance-Tracker
 
 This Python project allows users to manage their financial transactions through a CSV-based system. 
 It provides functionalities for adding new transactions, viewing transactions within a specified date range, and visualizing income vs. expenses over time using Matplotlib.
@@ -11,7 +11,7 @@ Users can add new transactions specifying the date, amount, category (income or 
 Retrieve transactions that fall within a specified start and end date.
 Display a summary of total income, total expenses, and net savings for the selected date range.
 
-3.Plot Income and Expenses Over Time:
+3. Plot Income and Expenses Over Time:
 Generates a plot using Matplotlib that visualizes income and expenses over time.
 Transactions are grouped by day and summed up to show trends.
 Components:
